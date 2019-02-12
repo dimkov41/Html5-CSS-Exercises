@@ -2,43 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25547b6-e953-4b3e-a8e9-75fbcec78c7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Css&amp;Typography.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_04_Buttons-css/Requirements-and-Resources/Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_04_Buttons-css/Requirements-and-Resources/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_04_Buttons-css/Requirements-and-Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_04_Buttons-css/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_04_Buttons-css/Solution/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_05_Contrasting-colors/Requirements-and-Resources/Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_05_Contrasting-colors/Requirements-and-Resources/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_05_Contrasting-colors/Requirements-and-Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_05_Contrasting-colors/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_05_Contrasting-colors/Solution/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_06_Icon-font-list/Requirements-and-Resources/Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_06_Icon-font-list/Requirements-and-Resources/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_06_Icon-font-list/Requirements-and-Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_06_Icon-font-list/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_06_Icon-font-list/Solution/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_07_Icon-font-buttons/Requirements-and-Resources/Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_07_Icon-font-buttons/Requirements-and-Resources/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_07_Icon-font-buttons/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_07_Icon-font-buttons/Solution/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_07_Icon-font-buttons/Solution/style.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_07_Icon-font-buttons/Solution/style.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/Requirements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/Requirements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/Requirements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/text.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,65 +24,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-444415602">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.55" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="11" />
-          <entry key="html" value="7" />
-          <entry key="md" value="12" />
-          <entry key="png" value="11" />
-          <entry key="txt" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="11" />
-          <entry key="HTML" value="7" />
-          <entry key="Image" value="11" />
-          <entry key="Markdown" value="12" />
-          <entry key="PLAIN_TEXT" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="1011" />
-          <entry key="html" value="467" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="1011" />
-          <entry key="HTML" value="467" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/Requirements.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/text.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/screenshot.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -134,14 +55,9 @@
         <option value="$PROJECT_DIR$/L3_07_Icon-font-buttons/Solution/style.css" />
         <option value="$PROJECT_DIR$/L3_04_Buttons-css/Solution/index.html" />
         <option value="$PROJECT_DIR$/L3_04_Buttons-css/Solution/style.css" />
+        <option value="$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Solution/styles.css" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="352" />
@@ -174,6 +90,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -207,14 +124,15 @@
       <updated>1548439046324</updated>
       <workItem from="1548439048603" duration="6873000" />
       <workItem from="1548451586918" duration="480000" />
+      <workItem from="1549992559598" duration="328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7353000" />
+    <option name="totallyTimeSpent" value="7681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
@@ -237,9 +155,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/L3_01_My-first-CSS-Document/Requirements-and-Resources/screenshot.png" />
@@ -369,21 +284,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/text.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/Requirements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
+          <first_editor relative-caret-position="60">
             <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3_09_Fonts-speciment-PT-Sans/Solution/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3_08_Create-Typography-CSS/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
