@@ -1,0 +1,27 @@
+body{
+    margin-left: 20%;
+    margin-right: 15%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    border-width: 0.4rem;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    margin: 1rem;
+
+}
+
+li img{
+    max-width: 1000px;
+    max-height: 500px;
+    margin: 2rem;
+    width: auto;
+    height: auto;
+    position: relative;
+
+}
