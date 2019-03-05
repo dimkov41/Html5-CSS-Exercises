@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+img {
+    max-width: 20em;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.content {
+    font-family: Georgia, serif;
+    margin: 1em;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    max-width: 20em;
+    position: absolute;
+    left: 50%;
+    margin-left: -10em;
+    top: 50%;
+    margin-top: -10em;
+    border-radius: 8px;
+}
+
+.button{
+    float: right;
+    margin-bottom: 1em;
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 0.5em 1em;
+    border-radius: 6px;
+}
